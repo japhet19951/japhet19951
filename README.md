@@ -1,1 +1,0 @@
-file:///storage/emulated/0/jad/index.html
